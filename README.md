@@ -16,7 +16,7 @@
 ### 💻 Về bản thân mình:
 - 🔭 Định hướng trở thành một **Chuyên gia AI** thực thụ và tối ưu tự động hóa.
 - 🤖 Hiện tại đang phát triển, quản lý hệ thống **Telegram Bots (Python)** độ trễ siêu thấp.
-- ⚡ **Châm ngôn:** Đêm đêm con thắp đèn trời / Cầu cho cha mẹ đóng lời dùm con.
+- 🎮 Sở thích: Gắn bó với những pha highlight nảy lửa trong **CS:GO**.
 
 ### 🛠️ Kỹ năng & Công nghệ:
 <p align="center">
